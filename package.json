@@ -1,0 +1,29 @@
+{
+  "name": "green-score",
+  "version": "1.0.0",
+  "description": "GitHub Copilot CLI extension that monitors token usage and provides a green sustainability score with CO₂ estimates and optimization recommendations.",
+  "main": "extension.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "copilot",
+    "github-copilot",
+    "cli-extension",
+    "sustainability",
+    "green",
+    "carbon",
+    "co2",
+    "token-usage"
+  ],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "dependencies": {
+    "@github/copilot-sdk": "^0.3.0"
+  }
+}
