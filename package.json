@@ -21,7 +21,7 @@
   "type": "module",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/pallavrustogi/green-score.git"
   },
   "dependencies": {
     "@github/copilot-sdk": "^0.3.0"

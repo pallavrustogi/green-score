@@ -25,7 +25,7 @@ Every AI token has an environmental cost. **Green Score** monitors token usage d
 1. Clone this repository into your Copilot CLI extensions directory:
 
    ```bash
-   git clone https://github.com/<your-username>/green-score ~/.copilot/extensions/green-score
+   git clone https://github.com/pallavrustogi/green-score ~/.copilot/extensions/green-score
    ```
 
 2. Install dependencies:
